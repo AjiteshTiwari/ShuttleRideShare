@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "105136458231",
+    "firebase_url": "https://shuttleridedriver.firebaseio.com",
+    "project_id": "shuttleridedriver",
+    "storage_bucket": "shuttleridedriver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105136458231:android:09f27389c938cbee",
+        "android_client_info": {
+          "package_name": "driver.ride.shuttle.com.shuttleridedriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105136458231-lugi0eamutfe41gfet80lksfanuitk8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "driver.ride.shuttle.com.shuttleridedriver",
+            "certificate_hash": "6a81be5d323dc90b4cca1c499237b838c68003cf"
+          }
+        },
+        {
+          "client_id": "105136458231-jgr4dnpc8jlf845pfa04kgquo0vdnm0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-DBfh0Z__ARMVe0MJ7WDkeqctqFoGexE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105136458231-jgr4dnpc8jlf845pfa04kgquo0vdnm0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
